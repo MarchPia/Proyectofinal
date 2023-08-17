@@ -2,9 +2,9 @@
 proyecto final python coderhouse
 
 
-Proyecto Final - Andres Soria
+Proyecto Final - Pia March
 
-Link Video https://www.awesomescreenshot.com/video/20017541
+Link Video - 
 
 Sistema para gestionar contenido simple, en éste caso, imágenes de distintas playas del mundo que se pueden ver, actualizar o eliminar mediante un registro/ingreso de usuario...
 
@@ -42,4 +42,4 @@ http://127.0.0.1:8000/final_app
 Ya puedes utilizar tu aplicación Django en el navegador.
 
 panel admin   http://127.0.0.1:8000/admin
-Superusuario: AndresSoria Password: Coderhouse99
+Superusuario: PiaMarch Password: Coderhouse22
