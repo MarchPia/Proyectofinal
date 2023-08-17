@@ -4,6 +4,8 @@ proyecto final python coderhouse
 
 Proyecto Final - Andres Soria
 
+Link Video https://www.awesomescreenshot.com/video/20017541
+
 Sistema para gestionar contenido simple, en éste caso, imágenes de distintas playas del mundo que se pueden ver, actualizar o eliminar mediante un registro/ingreso de usuario...
 
 Se realizó un CRUD. CRUD es una metodología que te ayuda a crear una base de datos, para luego, darle lectura, actualizar o eliminar información en una base de datos ya existente, es una práctica común en el desarrollo web para manejar datos en aplicaciones.
