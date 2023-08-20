@@ -4,7 +4,7 @@ proyecto final python coderhouse
 
 Proyecto Final - Pia March
 
-Link Video - 
+Link Video - https://www.awesomescreenshot.com/video/20085388?key=6b0fe089d704e2dcbd0700ba4bdcc5d6
 
 Sistema para gestionar contenido simple, en éste caso, imágenes de distintas playas del mundo que se pueden ver, actualizar o eliminar mediante un registro/ingreso de usuario...
 
